@@ -1,3 +1,16 @@
 //Test
 
 dasbjakdbvadv
+
+Open Bash, then type "git clone [insert URL here]", pasting the URL via right-click. Once the Repo is cloned, then it appears in your User folder
+
+Open VS Code, then File, open folder, navigate to Users and find the repo in there, then Select Folder.
+
+Once it's open, three circles with wavy lines on left lead to the Source Control screen.
+
+Changed will appear in the list once the files are saved, and from there hit the "+" button to Stage the changes.
+
+Once Staged, click the "check mark" button on the top to commit the changes to the local Repo.
+
+Once the local Repo is up-to-date, you can then click the looping circular arrows on the bottom left (tiny button) to
+Push the changes to the remote Repo on the Internet (accessible from Github.com), to fully-update everyone.

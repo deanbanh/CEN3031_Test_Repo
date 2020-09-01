@@ -8,7 +8,7 @@ Open VS Code, then File, open folder, navigate to Users and find the repo in the
 
 Once it's open, three circles with wavy lines on left lead to the Source Control screen.
 
-Changed will appear in the list once the files are saved, and from there hit the "+" button to Stage the changes.
+Changes will appear in the list on the left once the files are saved, and from there hit the "+" button to Stage the changes.
 
 Once Staged, click the "check mark" button on the top to commit the changes to the local Repo.
 
